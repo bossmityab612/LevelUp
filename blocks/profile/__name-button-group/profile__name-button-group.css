@@ -1,0 +1,12 @@
+.profile__name-button-group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 767px) {
+    .profile__name-button-group {
+        margin-bottom: 0;
+        margin: 0;
+    }
+}

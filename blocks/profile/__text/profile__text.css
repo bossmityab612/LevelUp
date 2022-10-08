@@ -1,0 +1,11 @@
+.profile__text {
+    padding-left: 30px;
+    flex-direction: row;
+}
+
+@media screen and (max-width: 767px) {
+    .profile__text {
+        padding: 0;
+        text-align: center;
+    }
+}

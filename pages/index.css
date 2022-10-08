@@ -1,0 +1,40 @@
+@import url('../vendor/normalize.css');
+@import url('../vendor/inter-font.css');
+@import url('../blocks/content/content.css');
+@import url('../blocks/page/page.css'); 
+
+/* ----------------Блок Лого------------- */
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__logo/header__logo.css');
+
+/* ------------Блок Профиль------------ */
+@import url('../blocks/profile/profile.css');
+@import url('../blocks/profile/__info/profile__info.css');
+@import url('../blocks/profile/__info-avatar/profile__info-avatar.css');
+@import url('../blocks/profile/__text/profile__text.css');
+@import url('../blocks/profile/__name-button-group/profile__name-button-group.css');
+@import url('../blocks/profile/__text-name/profile__text-name.css');
+@import url('../blocks/profile/__text-career/profile__text-career.css');
+@import url('../blocks/profile/__button-edit/profile__button-edit.css');
+@import url('../blocks/profile/__add-button/profile__add-button.css');
+
+/* -------------Блок с публикациями------------- */
+@import url('../blocks/photo/photo.css');
+@import url('../blocks/photo/__pub/photo__pub.css');
+@import url('../blocks/photo/__item/photo__item.css');
+@import url('../blocks/photo/__description/photo__description.css');
+@import url('../blocks/photo/__description-text/photo__description-text.css');
+@import url('../blocks/photo/__like/photo__like.css');
+
+@import url('../blocks/copyright/copyright.css');
+
+/* ------ПОПАП Блок с всплывающим окном редактирования ------- */
+@import url('../blocks/popup/popup.css');
+@import url('../blocks/popup/__opened/popup__opened.css');
+@import url('../blocks/popup/__container/popup__container.css');
+@import url('../blocks/popup/__container-form/popup__container-form.css');
+@import url('../blocks/popup/__button-exit/popup__button-exit.css');
+@import url('../blocks/popup-form/popup-form.css');
+@import url('../blocks/popup/__form/popup__form.css');
+@import url('../blocks/popup/__title/popup__title.css');
+@import url('../blocks/popup/__save-button/popup__save-button.css');

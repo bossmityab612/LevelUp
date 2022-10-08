@@ -1,0 +1,15 @@
+.profile__text-career {
+    font-size: 18px;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    line-height: 22px;
+    font-weight: 400;
+    margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .profile__text-career {
+        font-size: 14px;
+        line-height: 16.94px;
+        padding-bottom: 36px;
+    }
+}
